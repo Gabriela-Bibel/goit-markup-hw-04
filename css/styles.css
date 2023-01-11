@@ -202,11 +202,11 @@ svg {
 }
 
 /* our-services------------------------------------------------------- */
-.our-range {
+.service-range {
   margin-top: -94px;
 }
 
-.our-range h3 {
+.service-range h3 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
@@ -216,7 +216,7 @@ svg {
   padding-bottom: 50px;
 }
 
-.our-range-images {
+.service-range-images {
   display: flex;
   gap: 30px;
 }
@@ -381,8 +381,8 @@ svg {
   letter-spacing: 0.03em;
 }
 
-/* our customers ----------------------------------------------*/
-.customers-wrapper h3 {
+/* our clients ------------------------------------------*/
+.clients-wrapper h3 {
   font-weight: 700;
   font-size: 36px;
   line-height: 42px;
@@ -392,20 +392,20 @@ svg {
   margin: 0px;
 }
 
-.customers-wrapper > .client-logo {
+.clients-wrapper > .client-logo {
   display: inline-flex;
   gap: 30px;
 }
 
-.customers-wrapper > .client-logo a {
+.clients-wrapper > .client-logo a {
   border: 1px solid #afb1b8;
   border-radius: 4px;
   fill: var(--icon-grey);
   padding: 17.71px 32px 14.25px 32px;
 }
 
-.customers-wrapper > .client-logo a:hover,
-.customers-wrapper > .client-logo a:focus {
+.clients-wrapper > .client-logo a:hover,
+.clients-wrapper > .client-logo a:focus {
   fill: var(--light-blue);
   border: 1px solid var(--light-blue);
   outline: none;
